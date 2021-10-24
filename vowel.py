@@ -1,5 +1,5 @@
 def is_vowel(letter):
-    return letter in ['a', 'e', 'i', 'o', 'u', 'y']
+    return letter in ['a', 'e', 'i', 'o', 'u']
 
 def score_words(words):
     score = 0
